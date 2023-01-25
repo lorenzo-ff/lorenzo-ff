@@ -1,6 +1,7 @@
 ### Olá! Sou o Lorenzo Filippin
 
-- Estudante de Economia
+- 💸 Estudante de Economia
+- 📝 Aprendendo Python e relacionados
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzo-ff&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
