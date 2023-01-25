@@ -4,6 +4,7 @@
 - 📝 Aprendendo Python e relacionados
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzo-ff&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-ff&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
